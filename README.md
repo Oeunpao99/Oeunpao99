@@ -55,8 +55,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HS-Long&show_icons=true&locale=en&layout=compact" alt="HS-Long" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oeunpao99&show_icons=true&locale=en&layout=compact" alt="Pao's GitHub Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HS-Long&show_icons=true&locale=en" alt="HS-Long" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oeunpao99&show_icons=true&locale=en" alt="Pao's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HS-Long&" alt="HS-Long" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oeunpao99" alt="Pao's GitHub Streak" /></p>
+
+
