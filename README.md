@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HS-Long&label=Profile%20views&color=0e75b6&style=flat" alt="HS-Long" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Oeunpao99&label=Profile%20views&color=0e75b6&style=flat" alt="Oeunpao99" /> </p>
+
 
 - 🔭 I’m currently working on a **Regression Project**.
 - 🌱 I’m learning **Data Analytics** and advanced **Machine Learning**.
