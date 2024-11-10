@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Pao</h1>
-<h3 align="center">Data Science 3rd-Year Student Specializing in AI & Machine Learning</h3>
+<h3 align="center">Data Science 4th-Year Student Specializing in AI & Machine Learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif">
 
