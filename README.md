@@ -11,9 +11,6 @@
 - 💬 Ask me about **Python**.
 - 📫 Reach me at:
   - **oeunpao061204@gmail.com**
-  - **oeunpao061204bn@gmail.com**
-  - **oeunpao7879@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100035142420618&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
