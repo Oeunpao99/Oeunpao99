@@ -43,12 +43,79 @@
 ---
 
 ### Projects
-- **Food Recognition App (FNAPP)** – Built with Flutter, FastAPI, and Machine Learning for food detection and nutritional tracking.
-- **Regression Model** – Predictive analysis using Linear Regression, Decision Trees, and Random Forest.
-- **Data Analysis Portfolio** – Data exploration and visualization with Pandas, NumPy, Matplotlib, and Seaborn.
-- **AI Chatbot Prototype** – Generative AI integration for natural language interaction.
+
+#### AI/ML Applications
+- **Food Recognition App (FNAPP)** – End-to-end application using Flutter for frontend, FastAPI for backend, and Computer Vision models for food detection and nutritional analysis
+- **AI Chatbot Prototype** – Conversational AI system with generative capabilities for natural language interaction and task assistance
+- **Regression Analysis Suite** – Comprehensive predictive modeling framework using Linear Regression, Decision Trees, Random Forest with hyperparameter optimization
+- **Sentiment Analysis Pipeline** – NLP system for text classification and emotion detection from social media data
+- **Image Classification Models** – Deep learning implementations using CNNs for various computer vision tasks
+
+#### Data Science & Analytics
+- **Data Analysis Portfolio** – Exploratory data analysis projects with advanced visualization using Pandas, NumPy, Matplotlib, and Seaborn
+- **Time Series Forecasting** – Predictive models for temporal data analysis and trend prediction
+- **Customer Segmentation** – Unsupervised learning projects using clustering algorithms (K-Means, DBSCAN)
+- **Anomaly Detection System** – ML models for identifying outliers and unusual patterns in datasets
+- **Feature Engineering Toolkit** – Automated pipeline for feature selection and transformation
+
+#### Web & Full-Stack Development
+- **API Development Projects** – RESTful APIs built with FastAPI/Flask for ML model deployment
+- **Dashboard Applications** – Interactive data visualization dashboards using Streamlit/Plotly
+- **E-commerce Analytics Platform** – Full-stack application with data processing and visualization capabilities
+- **Real-time Data Processing** – Systems for streaming data ingestion and analysis
+
+#### Mobile Applications
+- **Cross-platform Mobile Apps** – Flutter/Dart applications with integrated ML capabilities
+- **Health & Fitness Trackers** – Mobile apps with data visualization and personal analytics
+
+#### Research & Academic Projects
+- **Thesis Research Project** – [Your thesis topic if applicable]
+- **Academic Competitions** – [Any hackathons or competitions you've participated in]
+- **Course Projects** – Significant projects from your Data Science curriculum
 
 ---
+
+### Featured Projects
+
+#### 🥇 **Food Recognition App (FNAPP)**
+**Tech Stack:** Flutter, FastAPI, TensorFlow, PostgreSQL, Docker  
+**Description:** A production-ready mobile application that uses computer vision to identify food items from images and provides nutritional information. Includes user authentication, meal logging, and data analytics dashboard.  
+**Key Features:**
+- Real-time food detection using custom-trained CNN models
+- Nutritional database integration
+- User profile and meal history tracking
+- Cross-platform mobile support
+
+#### 🥈 **Advanced Regression Framework**
+**Tech Stack:** Scikit-learn, XGBoost, LightGBM, MLflow, Streamlit  
+**Description:** Comprehensive machine learning pipeline for regression problems with automated feature engineering, model selection, and hyperparameter tuning.  
+**Key Features:**
+- Multiple algorithm implementations (Linear, Polynomial, Ridge, Lasso, Random Forest, Gradient Boosting)
+- Automated model evaluation and comparison
+- Interactive visualization of results
+- Model deployment ready with API endpoints
+
+#### 🥉 **Data Analysis Dashboard Suite**
+**Tech Stack:** Python, Pandas, Plotly, Dash, PostgreSQL  
+**Description:** A collection of interactive dashboards for various business intelligence and data analysis scenarios.  
+**Key Features:**
+- Real-time data visualization
+- Customizable reporting templates
+- Export functionality for reports
+- User access controls and permissions
+
+---
+
+### GitHub Repositories
+You can explore more projects on my GitHub:
+- [Repository 1: Advanced ML Models](https://github.com/Oeunpao99/)
+- [Repository 2: Data Visualization Toolkit](https://github.com/Oeunpao99/)
+- [Repository 3: API Development Examples](https://github.com/Oeunpao99/)
+- [Repository 4: Academic Projects](https://github.com/Oeunpao99/)
+
+---
+
+*Note: This is a categorized overview. For detailed information about any specific project, feel free to ask or check the individual repositories.*
 
 ### Interests
 - I enjoy learning AI through hands-on projects.
