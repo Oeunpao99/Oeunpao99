@@ -50,15 +50,6 @@
 
 ---
 
-### GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oeunpao99&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oeunpao99&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oeunpao99" alt="Streak Stats" /></p>
-
----
-
 ### Interests
 - I enjoy learning AI through hands-on projects.
 - Driven by curiosity and structured problem-solving.
