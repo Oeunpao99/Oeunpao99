@@ -68,11 +68,6 @@
 - **Cross-platform Mobile Apps** – Flutter/Dart applications with integrated ML capabilities
 - **Health & Fitness Trackers** – Mobile apps with data visualization and personal analytics
 
-#### Research & Academic Projects
-- **Thesis Research Project** – [Your thesis topic if applicable]
-- **Academic Competitions** – [Any hackathons or competitions you've participated in]
-- **Course Projects** – Significant projects from your Data Science curriculum
-
 ---
 
 ### Featured Projects
